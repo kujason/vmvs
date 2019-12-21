@@ -1,0 +1,15 @@
+coverage
+matplotlib
+nose
+numba
+numpy
+opencv-python
+pandas
+pillow
+pypng
+pyyaml
+scikit-image
+scipy
+sklearn
+tensorflow-gpu==1.14
+vtk

@@ -1,0 +1,21 @@
+data
+obsolete
+
+# Python
+*.pyc
+__pycache__
+
+# Coverage
+*.coverage
+
+# PyCharm
+.idea
+
+# Protobuf files
+*_pb2.py
+
+# line_profiler
+*.lprof
+
+# tf_profiler
+*.json
