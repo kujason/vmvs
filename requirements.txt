@@ -11,5 +11,5 @@ pyyaml
 scikit-image
 scipy
 sklearn
-tensorflow-gpu==1.14
+tensorflow-gpu==2.6.4
 vtk
